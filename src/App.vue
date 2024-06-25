@@ -36,7 +36,7 @@ template {
 nav {
   padding: 25px;
   font-family: "Inter", sans-serif;
-
+  background-color:#543656;
 
   
 }
